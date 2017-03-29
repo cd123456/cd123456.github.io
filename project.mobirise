@@ -110,7 +110,7 @@
               "link": "http://r.nitai.no/?atomid=1",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -124,7 +124,7 @@
           },
           "title1": "CLICK FOR JB",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"http://r.nitai.no/?atomid=1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://r.nitai.no/?atomid=1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Go to JB</a>",
           "media2": {
             "image": {
               "active": true,
