@@ -104,9 +104,13 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "qrc:/web/app/builder/images/bootstrap.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "http://r.nitai.no/?atomid=1",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "class": "mbr-figure__img",
